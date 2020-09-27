@@ -1,4 +1,4 @@
-# drop-and-number
+# drag-and-number
 Rename files in order of dropped number.
 
 Requires tkdnd2.8 and TkinterDnD2 to work.
